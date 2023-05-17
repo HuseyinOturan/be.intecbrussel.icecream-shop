@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3c84ec1-0521-4846-b9be-d047712400a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/application/IceCreamApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/application/IceCreamApp2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/eatables/Cone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/eatables/Eatable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/eatables/IceRocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/eatables/Magnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/sellers/IceCreamCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/sellers/IceCreamSalon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/sellers/IceCreamSeller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/sellers/Prijslijst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/sellers/Profitable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/sellers/Stock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/be/intecbrussel/eatables/ConeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/be/intecbrussel/eatables/IceRocketTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/be/intecbrussel/eatables/MagnumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/be/intecbrussel/sellers/IceCreamCarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/be/intecbrussel/sellers/IceCreamSalonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/be/intecbrussel/sellers/PrijslijstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/be/intecbrussel/sellers/StockTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="d3c84ec1-0521-4846-b9be-d047712400a6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,7 +167,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684141240266</updated>
       <workItem from="1684141241664" duration="10871000" />
-      <workItem from="1684156182608" duration="19273000" />
+      <workItem from="1684156182608" duration="19625000" />
     </task>
     <servers />
   </component>
